@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="GCS">
+    <output-path>$PROJECT_DIR$/out/artifacts/GCS</output-path>
+    <root id="root" />
+  </artifact>
+</component>
