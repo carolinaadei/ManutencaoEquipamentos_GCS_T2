@@ -10,7 +10,7 @@ public class Main {
         AppEquipamento appEquipamento = new AppEquipamento();
 
         do {
-            System.out.println("Menu Principal");
+            System.out.println("Menu principal");
             System.out.println("1 - Acesso ao menu de Funcionários");
             System.out.println("2 - Acesso ao menu de Equipamentos");
             System.out.println("3 - Acesso ao menu de Manutenções");
